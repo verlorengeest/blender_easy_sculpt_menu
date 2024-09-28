@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Easy Sculpt Menu",
-    "author": "Kaan Soyler",
+    "author": "Kaan Soyler (404axolotl)",
     "version": (2, 1),
     "blender": (2, 80, 0),
     "location": "Sculpt Mode",
